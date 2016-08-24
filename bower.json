@@ -1,0 +1,25 @@
+{
+  "name": "angular-yamljs",
+  "authors": [
+    "Mumshad Mannambeth <mmumshad@gmail.com>"
+  ],
+  "description": "Angular wrapper for yamljs",
+  "main": "src/angular-yamljs.js",
+  "keywords": [
+    "yamljs",
+    "angular"
+  ],
+  "dependencies": {
+    "yamljs": "^0.1.5"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
