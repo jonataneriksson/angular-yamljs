@@ -4,7 +4,9 @@
     "Mumshad Mannambeth <mmumshad@gmail.com>"
   ],
   "description": "Angular wrapper for yamljs",
-  "main": "src/angular-yamljs.js",
+  "main": [
+    "src/angular-yamljs.js"
+  ],
   "keywords": [
     "yamljs",
     "angular"
