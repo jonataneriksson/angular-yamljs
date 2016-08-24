@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "angular": "~1.x",
-    "yamljs": "https://github.com/jeremyfa/yaml.js.git"
+    "yamljs": "https://github.com/jeremyfa/yaml.js.git#latest"
   },
   "license": "MIT",
   "version": "0.0.1",
