@@ -10,9 +10,11 @@
     "angular"
   ],
   "dependencies": {
+    "angular": "~1.x",
     "yamljs": "^0.1.5"
   },
   "license": "MIT",
+  "version": "0.0.1",
   "homepage": "",
   "ignore": [
     "**/.*",
