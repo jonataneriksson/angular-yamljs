@@ -1,0 +1,23 @@
+{
+  "name": "angular-yamljs",
+  "version": "1.0.0",
+  "description": "Angular wrapper for yamljs",
+  "main": "dist/angular-yamljs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonataneriksson/angular-yamljs.git"
+  },
+  "author": "\"Mumshad Mannambeth <mmumshad@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "~1.x",
+    "yaml.js": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/jonataneriksson/angular-yamljs/issues"
+  },
+  "homepage": "https://github.com/jonataneriksson/angular-yamljs#readme"
+}
