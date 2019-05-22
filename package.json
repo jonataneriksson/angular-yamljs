@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "angular": "~1.x",
-    "yaml.js": "*"
+    "yamljs": "github:jeremyfa/yaml.js"
   },
   "bugs": {
     "url": "https://github.com/jonataneriksson/angular-yamljs/issues"
